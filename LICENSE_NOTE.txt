@@ -1,0 +1,1 @@
+This repository includes only the project sketches and screenshots. Third-party libraries are not bundled here. Install them from their official sources and retain their respective licenses when redistributing them.
